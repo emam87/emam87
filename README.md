@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Emam Hossain</h1>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/emam87/Emam-Picture/main/618716389_4088973098100055_8487388831869098927_n.jpg" width="150" style="border-radius:50%;" />
+  <h3 align="center">A Data Science enthusiast from Bangladesh who loves working with data and building models.</h3>
 </p>
-<h3 align="center">a Data Science enthusiast from Bangladesh who loves working with data and building models.</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
