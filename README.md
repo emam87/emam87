@@ -36,9 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emam87&label=Profile%20views&color=0e75b6&style=flat" alt="emam87" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emam87" alt="emam87" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analysis, Machine Learning, and Python**
 
@@ -48,7 +46,7 @@
 
 - 📫 How to reach me **mdemamhossain983@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DBg_6tEYmJ_bCEsNNQ_6Ic4Nf8fiPZex/view?usp=sharing](https://drive.google.com/file/d/1DBg_6tEYmJ_bCEsNNQ_6Ic4Nf8fiPZex/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1DBg_6tEYmJ_bCEsNNQ_6Ic4Nf8fiPZex/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,5 +61,3 @@
 ###
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emam87&show_icons=true&locale=en&layout=compact" alt="emam87" /></p>
