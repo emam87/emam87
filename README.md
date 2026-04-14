@@ -3,7 +3,6 @@
   <h3 align="center">A Data Science enthusiast from Bangladesh who loves working with data and building models.</h3>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
